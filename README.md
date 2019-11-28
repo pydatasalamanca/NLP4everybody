@@ -9,7 +9,7 @@ Although still not very common, the use of programming languages for data analys
 
 ### Natural Language Processing for Linguistic & Social Sciences (What? How? and Why?) (Spanish)
 
-[Anna Valdivia](https://github.com/anavaldi) - PhD (University of Granada)
+[Ana Valdivia](https://github.com/anavaldi) - PhD (University of Granada)
 
 Natural Language Processing (NLP) models aim at "understanding" human language. Although this area is considered a subfield of computer science, it is interesting to open it to other disciplines such as philology, sociology, psycology, etc. in order to create more robust results collaborating with multidisciplinary teams.
 
